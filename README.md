@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Zhiyu%20Li&section=header&reversal=false&textBg=false&animation=twinkling&fontAlign=50&fontAlignY=50&fontColor=FFBF00&color=000000" />
 </div>
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✅ in React.js and JavaScript </h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">✅ in React.js and TypeScript </h2>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> I've honed my expertise in React.js and JavaScript, creating robust software solutions for the businesses. My education in Computer Science from the University of Toronto underpins my methodical approach to problem-solving and product development. </div>
 </div>
 <div style="text-align: left;">
